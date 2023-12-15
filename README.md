@@ -1,4 +1,4 @@
-# Haplotype-resolved T2T Genome Assemblies and Pangenome Graph of Pear
+## Haplotype-resolved T2T Genome Assemblies and Pangenome Graph of Pear
 
 ## Introduction
 
@@ -14,15 +14,14 @@ The pipeline encompasses several key processes:
 
 3. **Pangenome Construction**: Building a pangenome graph based on minigraph-cactus apporach
 
-4. **Population-based SNP Calling**: Utilizing the pangenome for SNP calling across different pear accessions.
+4. **Graph-based SNP Calling**: Utilizing the pangenome for SNP calling across different pear accessions.
 
-5. **Identification of SV Hotspots**: Detecting structural variant (SV) hotspots within the population, which are critical for understanding genetic diversity.
-
-## Usage
-
-## Contributing
-
+5. **SV Hotspots Identification**: Detecting structural variant (SV) hotspots within the population, which are critical for understanding genetic diversity.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. 
+
+## Citation
+
+Haplotype-resolved T2T genome assemblies and pangenome graph of pear reveal high-resolution allele-specific expression and expanding set of genetic variations (Submitted)
