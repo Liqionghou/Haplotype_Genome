@@ -1,0 +1,1 @@
+## Pipeline to partition reads (Hi-C, RNA-seq, Genomics) 

@@ -1,0 +1,1 @@
+## Pipeline for SNP calling and genotyping using DeepVariant-GLnexus combo
