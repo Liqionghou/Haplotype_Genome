@@ -1,5 +1,7 @@
 ## Haplotype-resolved T2T Genome Assemblies and Pangenome Graph of Pear
 
+- Author: Qionghou Li (2019204004@njau.edu.cn)
+
 ## Introduction
 
 This repository includes the pipeline used for the research presented in the article _"Haplotype-resolved T2T genome assemblies and pangenome graph of pear reveal high-resolution allele-specific expression and expanding set of genetic variations"_. The study focuses on pear genome assemblies and the construction of a pangenome graph, highlighting allele-specific expressions and a broad set of genetic variations.
